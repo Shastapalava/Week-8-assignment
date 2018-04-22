@@ -2,4 +2,4 @@
 
 Vulnerabilty #1 Blue website: Session Hijacking
 
-<img src='vulnerability1.gif' title='vulnerability1' width='' alt='' />
+<img src='vul1.gif' title='vul1' width='' alt='' />
