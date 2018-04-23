@@ -22,3 +22,7 @@ Vulnerabilty #1 Red Website:  Insequre Direct Object Reference
 Vulnerabilty #2 Red Website:  Cross Site Request Forgery
 
 <img src='v4.gif' title='v4' width='' alt='' />
+
+Vulnerabilty #1 Green Website:  User Enumeration
+
+<img src='vul5.gif' title='vul5' width='' alt='' />
