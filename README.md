@@ -18,3 +18,7 @@ As we can see blue website is vulnerable to sql injection
 Vulnerabilty #1 Red Website:  Insequre Direct Object Reference
 
 <img src='vul3.gif' title='vul3' width='' alt='' />
+
+Vulnerabilty #2 Red Website:  Cross Site Request Forgery
+
+<img src='vul4.gif' title='vul4' width='' alt='' />
