@@ -24,5 +24,6 @@ Vulnerabilty #2 Red Website:  Cross Site Request Forgery
 <img src='v4.gif' title='v4' width='' alt='' />
 
 Vulnerabilty #1 Green Website:  User Enumeration
+With the use of burp we can see that for the existing user we get failure instead of fail. This allows us to enumerate users list.
 
 <img src='vul5.gif' title='vul5' width='' alt='' />
