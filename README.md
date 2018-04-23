@@ -21,4 +21,4 @@ Vulnerabilty #1 Red Website:  Insequre Direct Object Reference
 
 Vulnerabilty #2 Red Website:  Cross Site Request Forgery
 
-<img src='vul4.gif' title='vul4' width='' alt='' />
+<img src='v4.gif' title='v4' width='' alt='' />
